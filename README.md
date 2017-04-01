@@ -32,7 +32,7 @@ y colocar como contraseña: 1234
 3. Abrir el proyecto en netbeans y ejecutarlo.
 4. (Administrador: dni:44162124, pass: 123)  (Vendedor: dni:44162123, pass: 456)
 
-// Por Agregar (Nuevos requerimientos)
+Updated requirements.
 
 1. Agregar seccion RUC y que solo sea permitido guardar solo con nombre(Agregarlo a ventas dni y ruc para verlo) -- listo
 2. La opcion de default no aparesca en la lista.(nota: el idCliente por defecto es 9) -- listo
